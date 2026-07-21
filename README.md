@@ -11,7 +11,7 @@ Ralph loop that takes a math concept and produces a Manim animation. Built with 
 ```
 **Result:**
 
-<!-- REPLACE: drag runs/fractions/lesson.mp4 into a GitHub issue, paste the URL here -->
+https://github.com/user-attachments/assets/4d32ad4c-2a10-4e5b-b652-1316ba787cdf
 
 ---
 
@@ -24,7 +24,7 @@ Ralph loop that takes a math concept and produces a Manim animation. Built with 
 ```
 **Result:**
 
-<!-- REPLACE: drag runs/integers/lesson.mp4 into a GitHub issue, paste the URL here -->
+https://github.com/user-attachments/assets/7142b4a4-edcd-4f21-a3c8-527b8cc59888
 
 ---
 
