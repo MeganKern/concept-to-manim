@@ -1,0 +1,4 @@
+- Topic: Adding a positive and a negative integer
+- Objective: Students add integers of opposite sign
+- Worked example: (+5) + (−3)
+- Misconception: Students ignore the signs and add magnitudes (5 + 3 = 8), or always subtract without tracking direction

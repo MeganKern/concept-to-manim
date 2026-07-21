@@ -1,0 +1,4 @@
+- Topic: Adding fractions with unlike denominators
+- Objective: Students find a common denominator and add
+- Worked example: 3/4 + 1/8
+- Misconception: Students add numerators and denominators separately (3/4 + 1/8 = 4/12)
